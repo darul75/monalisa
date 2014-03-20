@@ -1,0 +1,42 @@
+{
+  "name": "monalisa",
+  "description": "Transform image (PNG or JPEG) into css, useless but fun !",
+  "version": "0.0.1",
+  "author": {
+    "name": "Julien Valéry",
+    "email": "darul75@gmail.com"
+  },
+  "homepage": "https://github.com/darul75/monalisa",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/darul75/monalisa.git"
+  },  
+  "keywords": [
+    "css",
+    "css3",
+    "image",
+    "tranform",
+    "nodejs"    
+  ],
+  "main": "./lib/monalisa",
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "engines": {
+    "node": ">=0.6.x"
+  },
+  "dependencies": {
+    "pixelr": "0.1.6"
+  },
+  "devDependencies": {   
+    "mocha": "",
+    "grunt": "latest",
+    "grunt-contrib-jshint": "latest",
+    "grunt-contrib-uglify": "latest"
+  },
+  "bugs": {
+    "url": "https://github.com/darul75/monalisa/issues"
+  },
+  "readmeFilename": "README.md",
+  "license": "MIT"
+}
