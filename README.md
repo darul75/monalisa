@@ -9,7 +9,7 @@ Transform image (PNG or JPEG) into CSS, useless but fun !
 
 Demo
 ------------
-coming soon
+http://darul75.github.io/monalisa/
 
 Installation
 ------------
