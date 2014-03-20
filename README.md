@@ -1,4 +1,4 @@
-Monalisa [![NPM version](https://badge.fury.io/js/monalisa.png)](http://badge.fury.io/js/monalisa) [![Build Status](https://travis-ci.org/darul75/monalisa.png?branch=master)](https://travis-ci.org/darul75/monalisa) [![Total views](https://sourcegraph.com/api/repos/github.com/darul75/monalisa/counters/views.png)](https://sourcegraph.com/github.com/darul75/monalisa)
+Monalisa [![NPM version](https://badge.fury.io/js/monalisa.png)](http://badge.fury.io/js/monalisa) [![Build Status](https://travis-ci.org/darul75/monalisa.svg?branch=master)](https://travis-ci.org/darul75/monalisa) [![Total views](https://sourcegraph.com/api/repos/github.com/darul75/monalisa/counters/views.png)](https://sourcegraph.com/github.com/darul75/monalisa)
 =====================
 
 Transform image (PNG or JPEG) into CSS, useless but fun !
