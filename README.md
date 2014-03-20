@@ -30,7 +30,7 @@ var monalisa = require('monalisa');
  monalisa.process({type:'png', id:'png', src: 'test/github.png', dest:'./test/style.css'}, function(err, style) {
   if (err) console.log(err); return; 
                 
-    console.log(style); // css content, style.css by default created...
+    console.log(style); // css content for id
 });
 ```
 
