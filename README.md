@@ -48,10 +48,12 @@ var monalisa = require('monalisa');
 
 If while building you get that kind of error 'Wrong JPEG library version: library is 90, caller expects 80.', here is what I have done:
 
+```
 cd /usr/local/include
 sudo rm jpeglib.h
 cd /usr/local/lib
 sudo rm libjpeg*.*
+```
 
 Then everything it fine. Under Mavericks OS
 
